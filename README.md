@@ -3,7 +3,7 @@
 
 
 
-The resources only focus on unsupervised domain adapation for semantic segmentation and these include related papers and the codes from top conferences and journals. See [Unsupervised Domain Adaption](https://github.com/barebell/DA) for more papers. 
+The resources only focus on unsupervised domain adapation for semantic segmentation and these include related papers and the codes from top conferences and journals. Repro originally created by [barebell](https://github.com/barebell)  [Unsupervised Domain Adaption](https://github.com/barebell/DA) and published under MIT License. 
 
 - [Unsupervised Domain Adaptation Semantic Segmentation](#Unsupervised-Domain-Adaptation)
   - [Conference Papers](#Conference-Papers)

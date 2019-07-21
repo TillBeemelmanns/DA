@@ -32,7 +32,7 @@ The resources only focus on unsupervised domain adapation for semantic segmentat
 | **CyCADA**   | Cycle Consistent Adversarial Domain Adaptation   | [ICML2018](http://proceedings.mlr.press/v80/hoffman18a/hoffman18a.pdf) | [Pytorch(Official)](https://github.com/jhoffman/cycada_release) | -                            | 39.5 %                    |
 | **I2IAdapt** | Image to Image Translation for Domain Adaptation | [CVPR2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Murez_Image_to_Image_CVPR_2018_paper.pdf) |                                                              | -                            | 31.8 %                    |
 
-## Conference Papers befor 2018
+## Conference Papers before 2018
 
 ## Journal Papers
 

@@ -1,5 +1,5 @@
 # Unsupervised Domain Adaptation for Semantic Segmentation
-[![](https://img.shields.io/badge/last%20commit-jun%202019-brightgreen.svg?style=flat-square)](https://github.com/TillBeemelmanns/DA/commits/master)
+[![](https://img.shields.io/github/last-commit/TillBeemelmanns/DA/master?style=plastic)](https://github.com/TillBeemelmanns/DA/commits/master)
 
 
 
